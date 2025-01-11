@@ -30,9 +30,9 @@
 - [Fully Functional Demo](https://saasstarter.work)
 - [Quick Start](#quick-start): Full docs from `git clone` to deployment.
 
-Created by the folks at [Kiln AI](https://getkiln.ai)! It's the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets. The Kiln app was built with SaaS Starter!
+Created by the folks at [Critical Moments](https://criticalmoments.io)! Check out our website site for an example deployment of SaaS Starter.
 
-**[Kiln AI](https://getkiln.ai)** Rapid AI Prototyping and Dataset Collaboration Tool
+**Make mobile apps?** Improve conversion rates and ratings with [Critical Moments](https://criticalmoments.io).
 
 ## Demo
 
@@ -266,7 +266,7 @@ Our [official demo](https://saasstarter.work) is hosted on Cloudflare Pages, and
 
 ### Deploy To Cloudflare
 
-Cloudflare Pages and Workers is one of the most popular options for deploying SvelteKit and we recommend it. [Follow Cloudflare’s instructions](https://developers.cloudflare.com/pages/get-started/git-integration/) to deploy in a few clicks. Be sure to select “SvelteKit” as framework, and the rest of the defaults will work.
+Cloudflare Pages and Workers is one of the most popular options for deploying SvelteKit and we recommend it. [Follow Cloudflare’s instructions](https://developers.cloudflare.com/pages/framework-guides/deploy-a-svelte-site/#deploy-with-cloudflare-pages) to deploy in a few clicks. Be sure to select “SvelteKit” as framework, and the rest of the defaults will work.
 
 When prompted: add environment variables for your production environment (PUBLIC_SUPABASE_URL,
 PUBLIC_SUPABASE_ANON_KEY, PRIVATE_SUPABASE_SERVICE_ROLE, and PRIVATE_STRIPE_API_KEY).
@@ -311,7 +311,7 @@ After the steps above, you’ll have a working version like the demo page. Howev
   - Update title and meta description tags for every public page. We include generic ones using your site name (`src/config.ts`), but the more specific these are the better.
   - This done automatically for blog posts from `posts.ts` metadata
 - Style
-  - Theme: Update the theme to match your brand, or use one of the built in themes from DaisyUI (see `app.css`). DaisyUI can automatically use a dark mode theme on systems with dark mode enabled (disabled by default) -- to enable if remove `themes: false;` and specify a dark mode theme. Docs: https://daisyui.com/docs/themes/
+  - Create a new DaisyUI Theme matching your brand or use one of the built in themes from DaisyUI (see `tailwind.config.js`)
   - Update the marketing page layout `src/routes/(marketing)/+layout.svelte`: customize design, delete unwanted pages from header and footer
   - Style: make it your own look and feel.
   - Update the favicon in the `/static/` directory
@@ -330,6 +330,7 @@ The open source community is extending and improving SaasStarter!
 These extensions are reference implementations of commonly needed features. We don't integrate them into the main branch to keep our dependencies minimal and simplify maintenance. However, if you need them you can cherry pick into your fork/repo:
 
 - Internationalization: [branch](https://github.com/CriticalMoments/CMSaasStarter/tree/extension/internationalization), and [instructions](https://github.com/CriticalMoments/CMSaasStarter/pull/49)
+- Dark mode theme: [branch](https://github.com/CriticalMoments/CMSaasStarter/tree/extension/dark_mode), and [instructions](https://github.com/CriticalMoments/CMSaasStarter/pull/47)
 - Fork using Shadcn/ui instead of DaisyUI: [kizivat/saas-kit](https://github.com/kizivat/saas-kit)
 
 ### Icons Credits
