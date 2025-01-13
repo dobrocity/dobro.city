@@ -235,7 +235,7 @@
       <div
         class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent mb-3 md:mb-7 pb-1"
       >
-        SaaS Starter Demo
+        Montenegro
       </div>
 
       <div
@@ -246,28 +246,21 @@
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
           >open source</span
-        >,
+        >, libertarian and
+        <span> blockchain&nbsp;first</span>
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >fast</span
-        >, and
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >free to host</span
+          >Popup City</span
         >
-        <span> SaaS template</span>
       </div>
       <div class="mt-6 md:mt-10 text-sm md:text-lg">
         Built with <a
-          href="https://kit.svelte.dev"
+          href="https://stellar.org"
           class="link font-bold"
-          target="_blank">SvelteKit</a
+          target="_blank">Stellar</a
         >,
         <a href="https://supabase.com" class="link font-bold" target="_blank"
           >Supabase</a
-        >,
-        <a href="https://stripe.com" class="link font-bold" target="_blank"
-          >Stripe</a
         >,
         <a href="https://tailwindcss.com" class="link font-bold" target="_blank"
           >Tailwind</a
