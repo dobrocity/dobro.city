@@ -79,17 +79,16 @@
   >
     <div class="px-6">
       <h1 class="text-2xl lg:text-4xl font-bold mb-4">Contact Us</h1>
-      <p class="text-lg">Talk to one of our service professionals to:</p>
+      <p class="text-lg">Talk to one of our cofounders:</p>
       <ul class="list-disc list-outside pl-6 py-4 space-y-1">
-        <li class="">Get a live demo</li>
-        <li class="">Discuss your specific needs</li>
-        <li>Get a quote</li>
-        <li>Answer any technical questions you have</li>
+        <li class="">Terms and conditions</li>
+        <li class="">How to contribute</li>
+        <li class="">How to invest</li>
+        <li class="">How to use the Stellar</li>
       </ul>
       <p>Once you complete the form, we'll reach out to you! *</p>
       <p class="text-sm pt-8">
-        *Not really for this demo page, but you should say something like that
-        😉
+        *We will try to reach out to you as soon as possible. 😉
       </p>
     </div>
   </div>
