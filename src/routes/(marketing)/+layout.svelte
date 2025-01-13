@@ -17,7 +17,7 @@
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
         <a
-          href="https://github.com/CriticalMoments/CMSaasStarter"
+          href="https://github.com/rinat-enikeev/city.methodology"
           class="border border-primary">★ us on Github</a
         >
       </li>
@@ -68,7 +68,7 @@
         <li><a href="/search">Search</a></li>
         <li>
           <a
-            href="https://github.com/CriticalMoments/CMSaasStarter"
+            href="https://github.com/rinat-enikeev/city.methodology"
             class="border border-primary">★ us on Github</a
           >
         </li>
@@ -96,7 +96,7 @@
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
       <a
         class="link link-hover my-1"
-        href="https://github.com/CriticalMoments/CMSaasStarter">Github</a
+        href="https://github.com/rinat-enikeev/city.methodology">Github</a
       >
     </nav>
     <aside>

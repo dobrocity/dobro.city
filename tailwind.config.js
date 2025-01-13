@@ -12,7 +12,7 @@ export default {
     themes: [
       {
         saasstartertheme: {
-          primary: "#180042",
+          primary: "#A020F0",
           "primary-content": "#fefbf6",
           secondary: "#c7b9f8",
           neutral: "#180042",

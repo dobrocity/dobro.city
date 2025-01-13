@@ -102,8 +102,8 @@
           </div>
           <div class="collapse-content">
             <p>
-              Our demo page <a href="https://saasstarter.work" class="link"
-                >SaasStarter.work</a
+              Our demo page <a href="https://methodology.city" class="link"
+                >methodology.city</a
               > has a functional demo page, using Stripe's test environment.
             </p>
             <p class="mt-4">
