@@ -316,7 +316,7 @@ export const actions = {
         from_email: "noreply@methodology.city",
         template_name: "welcome_email",
         template_properties: {
-          companyName: "SaaS Starter",
+          companyName: "methodology.city",
           WebsiteBaseUrl: WebsiteBaseUrl,
         },
       })

@@ -1,6 +1,6 @@
 export const blogInfo = {
-  name: "SaaS Starter Blog",
-  description: "A sample blog",
+  name: "Popup City Blog",
+  description: "A blog about the Popup City in Montenegro",
 }
 
 export type BlogPost = {
