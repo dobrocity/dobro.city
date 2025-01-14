@@ -235,7 +235,7 @@
       <div
         class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent mb-3 md:mb-7 pb-1"
       >
-        Montenegro
+        Dobro City
       </div>
 
       <div
@@ -250,7 +250,7 @@
         <span> blockchain&nbsp;first</span>
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >Popup City</span
+          >Popup&nbsp;City</span
         >
       </div>
       <div class="mt-6 md:mt-10 text-sm md:text-lg">
@@ -275,10 +275,10 @@
         >
       </div>
       <div class="mt-6 md:mt-2">
-        <a href="https://github.com/rinat-enikeev/city.methodology">
+        <a href="https://github.com/dobrocity/dobro.city">
           <button class="btn btn-primary btn-sm px-6">★ us on Github</button>
         </a>
-        <a href="https://github.com/rinat-enikeev/wiki.methodology.city">
+        <a href="https://github.com/dobrocity/dobro.city">
           <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2"
             >Read the Docs</button
           >

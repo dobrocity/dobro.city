@@ -1,13 +1,13 @@
 <p class="lead">The cofounding process started on January 7th, 2025.</p>
 
-<h3>Check out our Stellar account</h3>
+<h3>Check out Stellar</h3>
 
 <p>The offer is open to everyone.</p>
 
 <p>
-  Check out more in the Stellar Explorer <a
-    href="https://stellar.expert/explorer/public/offer/1681119368?order=desc"
-    >order book</a
+  Check out more on <a
+    href="https://stellar.expert/explorer/public/account/GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR"
+    >Stellar</a
   >.
 </p>
 

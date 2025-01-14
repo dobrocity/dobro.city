@@ -17,7 +17,7 @@
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
         <a
-          href="https://github.com/rinat-enikeev/city.methodology"
+          href="https://github.com/dobrocity/dobro.city"
           class="border border-primary">★ us on Github</a
         >
       </li>
@@ -68,7 +68,7 @@
         <li><a href="/search">Search</a></li>
         <li>
           <a
-            href="https://github.com/rinat-enikeev/city.methodology"
+            href="https://github.com/dobrocity/dobro.city"
             class="border border-primary">★ us on Github</a
           >
         </li>
@@ -96,16 +96,16 @@
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
       <a
         class="link link-hover my-1"
-        href="https://github.com/rinat-enikeev/city.methodology">Github</a
+        href="https://github.com/dobrocity/dobro.city">Github</a
       >
     </nav>
     <aside>
       <span class="footer-title opacity-80">Stellar</span>
       <a
         class="max-w-[260px]"
-        href="https://stellar.expert/explorer/public/account/GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF"
+        href="https://stellar.expert/explorer/public/account/GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR"
       >
-        <div class="font-bold text-3xl mb-1">6QDF</div>
+        <div class="font-bold text-3xl mb-1">DOBR</div>
         <div class="font-medium mb-3">Check out our Stellar</div>
         <div class="font-light">
           Transparent and open source cofounding process

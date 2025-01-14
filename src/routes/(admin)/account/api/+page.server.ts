@@ -313,10 +313,10 @@ export const actions = {
       await sendUserEmail({
         user: session.user,
         subject: "Welcome!",
-        from_email: "noreply@methodology.city",
+        from_email: "noreply@dobro.city",
         template_name: "welcome_email",
         template_properties: {
-          companyName: "methodology.city",
+          companyName: "dobro.city",
           WebsiteBaseUrl: WebsiteBaseUrl,
         },
       })
