@@ -11,14 +11,23 @@ ACCOUNTS=[
 "GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR",
 ]
 
-VERSION="2.1.0"
+VERSION="2.5.0"
+
+[[PRINCIPALS]]
+name="Rinat Enikeev"
+email="rinat@dobro.city"
+keybase="programyzer"
+telegram="programyzer"
 
 [DOCUMENTATION]
+ORG_NAME="Dobro City"
+ORG_DBA="Dobro City"
 ORG_URL="https://dobro.city"
-ORG_DBA="DOBROCITY"
-ORG_NAME="DOBROCITY"
 ORG_LOGO="https://dobro.city/favicon.png"
-ORG_DESCRIPTION="Dobro City"
+ORG_DESCRIPTION="The open source, libertarian and blockchain first Popup City"
+ORG_GITHUB="dobrocity"
+ORG_OFFICIAL_EMAIL="rinat@dobro.city"
+ORG_SUPPORT_EMAIL="rinat@dobro.city"
 
 [[CURRENCIES]]
 code="DOBRO"
@@ -29,6 +38,17 @@ is_asset_anchored=false
 name="DOBRO"
 desc="DOBRO is an organization token for the Dobro City"
 image="https://dobro.city/favicon.png"
+
+[[CURRENCIES]]
+code="KIND"
+issuer="GCDOXSSA6RKZHZGI5KI2RB24UWKFTKZ2CTKXG5WBAURDDYR3CER7DOBR"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+name="KIND"
+desc="Kind is a donation token for the Dobro City. [EN] Terms: https://docs.dobro.city/offers/kind. [RU] Условия: https://docs.dobro.city/ru/oferty/kind. "
+image="https://dobro.city/KIND.png"
 `
 
   return new Response(content, {
