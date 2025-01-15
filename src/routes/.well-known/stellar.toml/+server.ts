@@ -19,6 +19,18 @@ email="rinat@dobro.city"
 keybase="programyzer"
 telegram="programyzer"
 
+[[PRINCIPALS]]
+name="Valeriy Utrosin"
+email="valeriy@dobro.city"
+keybase="poutru"
+telegram="poutru"
+
+[[PRINCIPALS]]
+name="Victor Korb"
+email="victor@dobro.city"
+keybase="KorbVV"
+telegram="KorbVV"
+
 [DOCUMENTATION]
 ORG_NAME="Dobro City"
 ORG_DBA="Dobro City"
