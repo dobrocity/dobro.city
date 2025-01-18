@@ -247,7 +247,7 @@
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
           >open source</span
         >, libertarian and
-        <span> blockchain&nbsp;first</span>
+        <span> blockchain-first</span>
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
           >Popup&nbsp;City</span
