@@ -26,6 +26,12 @@ const blogPosts: BlogPost[] = [
     link: "/blog/cofounders_meeting",
     date: "2024-1-18",
   },
+  {
+    title: "Foundation",
+    description: "The dobro.city was founded!",
+    link: "/blog/foundation",
+    date: "2024-1-19",
+  },
 ]
 
 // Parse post dates from strings to Date objects
