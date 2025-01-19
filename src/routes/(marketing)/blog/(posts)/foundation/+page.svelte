@@ -12,7 +12,10 @@
 
 <p>
   The
-  [LV](https://stellar.expert/explorer/public/asset/LV-GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF)
+  <a
+    href="https://stellar.expert/explorer/public/asset/LV-GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF"
+    >LV</a
+  >
   offer was revoked.
 </p>
 
