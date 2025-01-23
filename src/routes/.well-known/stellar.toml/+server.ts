@@ -38,8 +38,8 @@ ORG_URL="https://dobro.city"
 ORG_LOGO="https://dobro.city/favicon.png"
 ORG_DESCRIPTION="The open source, libertarian and blockchain-first Popup City"
 ORG_GITHUB="dobrocity"
-ORG_OFFICIAL_EMAIL="rinat@dobro.city"
-ORG_SUPPORT_EMAIL="rinat@dobro.city"
+ORG_OFFICIAL_EMAIL="contact@dobro.city"
+ORG_SUPPORT_EMAIL="contact@dobro.city"
 
 [[CURRENCIES]]
 code="DOBRO"
