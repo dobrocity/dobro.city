@@ -32,6 +32,12 @@ const blogPosts: BlogPost[] = [
     link: "/blog/foundation",
     date: "2024-1-19",
   },
+  {
+    title: "Seed round",
+    description: "Seed round is announced!",
+    link: "/blog/seed",
+    date: "2024-1-24",
+  },
 ]
 
 // Parse post dates from strings to Date objects
