@@ -94,6 +94,14 @@
       <!-- <a class="link link-hover my-1" href="/pricing">Pricing</a> -->
       <!-- <a class="link link-hover my-1" href="/blog">Blog</a> -->
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
+      <a class="link link-hover my-1" href="https://mastodon.social/@dobro"
+        >Mastodon</a
+      >
+      <a
+        class="link link-hover my-1"
+        href="https://primal.net/p/npub1d3734dd5w3u20ufh7edlttmqkng5m6ka3qcx7cr3f49k6yzu9nuqvvhm5x"
+        >Primal</a
+      >
       <a
         class="link link-hover my-1"
         href="https://github.com/dobrocity/dobro.city">Github</a
