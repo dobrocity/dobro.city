@@ -311,6 +311,12 @@
         <div class="card-body items-center text-center">
           <h2 class="card-title">Rinat Enikeev</h2>
           <p class="text-sm opacity-70">Product Lead</p>
+          <div class="card-actions">
+            <a
+              href="https://hey.xyz/u/enikeev"
+              class="link link-hover text-sm opacity-70">@enikeev</a
+            >
+          </div>
         </div>
       </div>
 
