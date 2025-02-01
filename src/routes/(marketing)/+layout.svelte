@@ -115,9 +115,7 @@
       >
         <div class="font-bold text-3xl mb-1">DOBR</div>
         <div class="font-medium mb-3">Check out our Stellar</div>
-        <div class="font-light">
-          Transparent and open source cofounding process
-        </div>
+        <div class="font-light">Transparent and open source</div>
         <div class="link text-sm font-bold mt-2">Learn More</div>
       </a>
     </aside>
