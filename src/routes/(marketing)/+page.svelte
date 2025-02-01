@@ -407,6 +407,171 @@
   </div>
 </div>
 
+<div class="min-h-[60vh] flex justify-center">
+  <div class="pt-20 pb-8 px-7">
+    <div class="max-w-lg mx-auto text-center">
+      <div
+        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
+      >
+        Frequently Asked Questions
+      </div>
+    </div>
+    <div class="mt-8 max-w-3xl mx-auto">
+      <div class="mb-6">
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            What is DoBro.City?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            DoBro.City is a libertarian city project based on blockchain
+            technologies and open-source developments. We create an innovative
+            urban environment where decentralized technologies ensure
+            transparency, security, and economic efficiency. We adhere to the
+            principles of non-aggression and self-ownership.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            What role does blockchain play in the city?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            Blockchain is used to manage economic processes, including financial
+            transactions, property rights notarization, and commitment
+            articulation. This increases trust and eliminates centralized
+            control.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            What does the open-source nature of the project mean?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            We create an open codebase that allows all interested developers to
+            participate in the project, propose improvements, and adapt
+            solutions for other cities. You can fork any repository or the
+            entire project in your physical location.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            What specific city blockchain technologies do you offer?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            We use the Stellar blockchain for tokenizing the real sector (Real
+            World Assets - RWA) and participant commitments (labor tokens). We
+            are not inventing a new blockchain. In Popup City, the blockchain
+            acts as an automated ledger for recording economic transactions and
+            property rights notarization.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            What does Popup mean in the project name?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            Popup implies a modular and flexible city architecture. This means
+            the project can be temporary or adaptable, depending on the
+            community's needs and location. Cities are such complex
+            organizations that they cannot be planned.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            Is DoBro.City tied to a specific location?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            No, our concept is a universal framework that can be deployed in
+            different locations. This allows for adapting solutions to the needs
+            of various communities and economic conditions.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            How can one join the project?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            You can participate in the project by submitting Pull Requests on
+            GitHub, reposting, and commenting on us on social networks
+            (Telegram, Mastodon, Primal). We are also always open to
+            collaboration with developers, urbanists, entrepreneurs, and
+            blockchain technology enthusiasts. Write to <a
+              href="https://t.me/programyzer"
+              class="link font-bold"
+              target="_blank">rinat</a
+            > with a greeting and an announcement of the contribution you want to
+            make.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            What social benefits does your project provide?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            We create an environment where residents can actively participate in
+            city management, take advantage of new digital economy
+            opportunities, and live in a space free from excessive government
+            control.
+          </div>
+        </div>
+        <div class="faq-item">
+          <button
+            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
+          >
+            What advantages does the project have over traditional cities?
+          </button>
+          <div
+            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
+          >
+            DoBro.City offers decentralized management, transparent city
+            processes, reduced dependence on government structures, and
+            innovative financial mechanisms for residents.
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      document.querySelectorAll(".faq-question").forEach((button) => {
+        button.addEventListener("click", () => {
+          const answer = button.nextElementSibling
+          answer.classList.toggle("hidden")
+        })
+      })
+    </script>
+  </div>
+</div>
+
 <!-- <div class="min-h-[60vh]">
   <div class="pt-20 pb-8 px-7">
     <div class="max-w-lg mx-auto text-center">
