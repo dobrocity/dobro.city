@@ -293,7 +293,7 @@
       <div
         class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
       >
-        Meet Our Team
+        Leadership
       </div>
     </div>
 
@@ -347,21 +347,6 @@
           <p class="text-sm opacity-70">Acquisition Lead</p>
         </div>
       </div>
-
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/soz.jpeg"
-            alt="Soz Nov"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Soz Nov</h2>
-          <p class="text-sm opacity-70">Chain Lead</p>
-        </div>
-      </div>
-
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
@@ -401,6 +386,36 @@
         <div class="card-body items-center text-center">
           <h2 class="card-title">Dmitriy Sergeevich</h2>
           <p class="text-sm opacity-70">Build Lead</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="min-h-[60vh]">
+  <div class="pt-20 pb-8 px-7">
+    <div class="max-w-lg mx-auto text-center">
+      <div
+        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
+      >
+        Advisory
+      </div>
+    </div>
+
+    <div
+      class="flex flex-wrap justify-center gap-8 mt-12 max-w-[1200px] mx-auto"
+    >
+      <div class="card w-64 bg-base-100 shadow-xl">
+        <figure class="px-6 pt-6">
+          <img
+            src="/images/team/soz.jpeg"
+            alt="Soz Nov"
+            class="rounded-xl w-48 h-48 object-cover"
+          />
+        </figure>
+        <div class="card-body items-center text-center">
+          <h2 class="card-title">Soz Nov</h2>
+          <p class="text-sm opacity-70">MTLA Secretary</p>
         </div>
       </div>
     </div>
