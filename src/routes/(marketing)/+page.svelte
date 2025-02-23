@@ -534,10 +534,9 @@
             class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
           >
             You can participate in the project by submitting Pull Requests on
-            GitHub, reposting, and commenting on us on social networks
-            (Telegram, Mastodon, Primal). We are also always open to
-            collaboration with developers, urbanists, entrepreneurs, and
-            blockchain technology enthusiasts. Write to <a
+            GitHub, reposting, and commenting on us on social networks. We are
+            also always open to collaboration with developers, urbanists,
+            entrepreneurs, and blockchain technology enthusiasts. Write to <a
               href="https://t.me/programyzer"
               class="link font-bold"
               target="_blank">rinat</a
