@@ -287,8 +287,43 @@
     </div>
   </div>
 </div>
-<div class="min-h-[60vh]">
-  <div class="pt-20 pb-8 px-7">
+
+<div class="min-h-[50vh]">
+  <div class="pt-10 pb-8 px-7">
+    <div class="max-w-lg mx-auto text-center">
+      <div
+        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
+      >
+        Roadmap
+      </div>
+    </div>
+
+    <div class="max-w-3xl mx-auto mt-12">
+      <div class="flex flex-col gap-8">
+        <div
+          class="card bg-base-100 shadow-[inset_0_2px_4px_0_rgb(0,0,0,0.25)]"
+        >
+          <div class="card-body">
+            <h2 class="card-title text-2xl">2025</h2>
+            <p class="text-lg opacity-80">Digital twin of the popup</p>
+          </div>
+        </div>
+
+        <div
+          class="card bg-base-100 shadow-[inset_0_2px_4px_0_rgb(0,0,0,0.25)]"
+        >
+          <div class="card-body">
+            <h2 class="card-title text-2xl">2026</h2>
+            <p class="text-lg opacity-80">First festival in Montenegro</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="min-h-[50vh]">
+  <div class="pt-10 pb-8 px-7">
     <div class="max-w-lg mx-auto text-center">
       <div
         class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
@@ -311,12 +346,6 @@
         <div class="card-body items-center text-center">
           <h2 class="card-title">Rinat Enikeev</h2>
           <p class="text-sm opacity-70">Product Lead</p>
-          <div class="card-actions">
-            <a
-              href="https://hey.xyz/u/enikeev"
-              class="link link-hover text-sm opacity-70">@enikeev</a
-            >
-          </div>
         </div>
       </div>
 
@@ -392,7 +421,7 @@
   </div>
 </div>
 
-<div class="min-h-[60vh]">
+<div class="min-h-[50vh]">
   <div class="pt-20 pb-8 px-7">
     <div class="max-w-lg mx-auto text-center">
       <div
@@ -422,7 +451,7 @@
   </div>
 </div>
 
-<div class="min-h-[60vh] flex justify-center">
+<div class="min-h-[50vh] flex justify-center">
   <div class="pt-20 pb-8 px-7">
     <div class="max-w-lg mx-auto text-center">
       <div
