@@ -333,7 +333,7 @@
     </div>
 
     <div
-      class="flex flex-wrap justify-center gap-8 mt-12 max-w-[1200px] mx-auto"
+      class="flex flex-wrap justify-center gap-8 mt-12 max-w-[900px] mx-auto"
     >
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
