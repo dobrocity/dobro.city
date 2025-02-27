@@ -288,7 +288,29 @@
   </div>
 </div>
 
-<div class="min-h-[50vh]">
+<div>
+  <div class="pt-10 pb-8 px-7">
+    <div class="max-w-lg mx-auto text-center">
+      <div
+        class="text-3xl md:text-5xl mb-10 font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
+      >
+        Stay Updated
+      </div>
+      <div style="min-height: 58px;max-width: 440px;margin: 0 auto;width: 100%">
+        <script
+          src="https://cdn.jsdelivr.net/ghost/signup-form@~0.2/umd/signup-form.min.js"
+          data-button-color="#705B40"
+          data-button-text-color="#fefbf6"
+          data-site="https://what-is-dobro.ghost.io/"
+          data-locale="en"
+          async
+        ></script>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="min-h-[40vh]">
   <div class="pt-10 pb-8 px-7">
     <div class="max-w-lg mx-auto text-center">
       <div
