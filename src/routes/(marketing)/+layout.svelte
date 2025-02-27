@@ -24,7 +24,7 @@
       <li class="md:mx-2">
         <a href="https://newsroom.dobro.city">Newsroom</a>
       </li>
-      <!-- <li class="md:mx-2"><a href="/blog">Blog</a></li> -->
+      <li class="md:mx-2"><a href="https://school.dobro.city">School</a></li>
       <li class="md:mx-2"><a href="https://kids.dobro.city">For Kids</a></li>
       <!-- <li class="md:mx-2"><a href="/account">Account</a></li> -->
       <li class="md:mx-0">
@@ -68,7 +68,7 @@
         <li class="md:mx-2">
           <a href="https://newsroom.dobro.city">Newsroom</a>
         </li>
-        <!-- <li><a href="/blog">Blog</a></li> -->
+        <li><a href="https://school.dobro.city">School</a></li>
         <li><a href="https://kids.dobro.city">For Kids</a></li>
         <!-- <li><a href="/account">Account</a></li> -->
         <li><a href="/search">Search</a></li>
