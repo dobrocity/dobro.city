@@ -376,19 +376,6 @@
           <p class="text-sm opacity-70">Acquisition Lead</p>
         </div>
       </div>
-      <div class="card w-64 bg-base-100 shadow-xl">
-        <figure class="px-6 pt-6">
-          <img
-            src="/images/team/mi.jpeg"
-            alt="Mi San"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
-        </figure>
-        <div class="card-body items-center text-center">
-          <h2 class="card-title">Mi San</h2>
-          <p class="text-sm opacity-70">Event Lead</p>
-        </div>
-      </div>
 
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
@@ -434,6 +421,20 @@
     <div
       class="flex flex-wrap justify-center gap-8 mt-12 max-w-[1200px] mx-auto"
     >
+      <div class="card w-64 bg-base-100 shadow-xl">
+        <figure class="px-6 pt-6">
+          <img
+            src="/images/team/mi.jpeg"
+            alt="Mi San"
+            class="rounded-xl w-48 h-48 object-cover"
+          />
+        </figure>
+        <div class="card-body items-center text-center">
+          <h2 class="card-title">Mi San</h2>
+          <p class="text-sm opacity-70">MTL Fest</p>
+        </div>
+      </div>
+
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
