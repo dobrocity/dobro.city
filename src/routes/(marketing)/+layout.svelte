@@ -21,7 +21,10 @@
           class="border border-primary">★ us on Github</a
         >
       </li>
-      <li class="md:mx-2"><a href="/blog">Blog</a></li>
+      <li class="md:mx-2">
+        <a href="https://newsroom.dobro.city">Newsroom</a>
+      </li>
+      <!-- <li class="md:mx-2"><a href="/blog">Blog</a></li> -->
       <li class="md:mx-2"><a href="https://kids.dobro.city">For Kids</a></li>
       <!-- <li class="md:mx-2"><a href="/account">Account</a></li> -->
       <li class="md:mx-0">
@@ -62,7 +65,10 @@
         tabindex="0"
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
-        <li><a href="/blog">Blog</a></li>
+        <li class="md:mx-2">
+          <a href="https://newsroom.dobro.city">Newsroom</a>
+        </li>
+        <!-- <li><a href="/blog">Blog</a></li> -->
         <li><a href="https://kids.dobro.city">For Kids</a></li>
         <!-- <li><a href="/account">Account</a></li> -->
         <li><a href="/search">Search</a></li>
@@ -79,6 +85,28 @@
 
 <div class="">
   {@render children?.()}
+</div>
+
+<div>
+  <div class="pt-10 pb-8 px-7">
+    <div class="max-w-lg mx-auto text-center">
+      <div
+        class="text-3xl md:text-3xl mb-10 font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
+      >
+        Subscribe to our newsletter
+      </div>
+      <div style="min-height: 58px;max-width: 440px;margin: 0 auto;width: 100%">
+        <script
+          src="https://cdn.jsdelivr.net/ghost/signup-form@~0.2/umd/signup-form.min.js"
+          data-button-color="#52643F"
+          data-button-text-color="#fefbf6"
+          data-site="https://what-is-dobro.ghost.io/"
+          data-locale="en"
+          async
+        ></script>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Spacer grows so the footer can be at bottom on short pages -->
