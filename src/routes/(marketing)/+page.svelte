@@ -255,157 +255,140 @@
         Frequently Asked Questions
       </div>
     </div>
-    <div class="mt-8 max-w-3xl mx-auto">
-      <div class="mb-6">
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+    <div class="flex place-content-center">
+      <div class="join join-vertical max-w-xl py-6 mx-auto">
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             What is DoBro.City?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            DoBro.City is a libertarian city project based on blockchain
-            technologies and open-source developments. We create an innovative
-            urban environment where decentralized technologies ensure
-            transparency, security, and economic efficiency. We adhere to the
-            principles of non-aggression and self-ownership.
+          </div>
+          <div class="collapse-content">
+            <p>
+              DoBro.City is a libertarian city project based on blockchain
+              technologies and open-source developments. We create an innovative
+              urban environment where decentralized technologies ensure
+              transparency, security, and economic efficiency. We adhere to the
+              principles of non-aggression and self-ownership.
+            </p>
           </div>
         </div>
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             What role does blockchain play in the city?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            Blockchain is used to manage economic processes, including financial
-            transactions, property rights notarization, and commitment
-            articulation. This increases trust and eliminates centralized
-            control.
+          </div>
+          <div class="collapse-content">
+            <p>
+              Blockchain is used to manage economic processes, including
+              financial transactions, property rights notarization, and
+              commitment articulation. This increases trust and eliminates
+              centralized control.
+            </p>
           </div>
         </div>
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             What does the open-source nature of the project mean?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            We create an open codebase that allows all interested developers to
-            participate in the project, propose improvements, and adapt
-            solutions for other cities. You can fork any repository or the
-            entire project in your physical location.
+          </div>
+          <div class="collapse-content">
+            <p>
+              We create an open codebase that allows all interested developers
+              to participate in the project, propose improvements, and adapt
+              solutions for other cities. You can fork any repository or the
+              entire project in your physical location.
+            </p>
           </div>
         </div>
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             What specific city blockchain technologies do you offer?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            We use the Stellar blockchain for tokenizing the real sector (Real
-            World Assets - RWA) and participant commitments (labor tokens). We
-            are not inventing a new blockchain. In Popup City, the blockchain
-            acts as an automated ledger for recording economic transactions and
-            property rights notarization.
+          </div>
+          <div class="collapse-content">
+            <p>
+              We use the Stellar blockchain for tokenizing the real sector (Real
+              World Assets - RWA) and participant commitments (labor tokens). We
+              are not inventing a new blockchain. In Popup City, the blockchain
+              acts as an automated ledger for recording economic transactions
+              and property rights notarization.
+            </p>
           </div>
         </div>
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             What does Popup mean in the project name?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            Popup implies a modular and flexible city architecture. This means
-            the project can be temporary or adaptable, depending on the
-            community's needs and location. Cities are such complex
-            organizations that they cannot be planned.
+          </div>
+          <div class="collapse-content">
+            <p>
+              Popup implies a modular and flexible city architecture. This means
+              the project can be temporary or adaptable, depending on the
+              community's needs and location. Cities are such complex
+              organizations that they cannot be planned.
+            </p>
           </div>
         </div>
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             Is DoBro.City tied to a specific location?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            No, our concept is a universal framework that can be deployed in
-            different locations. This allows for adapting solutions to the needs
-            of various communities and economic conditions.
+          </div>
+          <div class="collapse-content">
+            <p>
+              No, our concept is a universal framework that can be deployed in
+              different locations. This allows for adapting solutions to the
+              needs of various communities and economic conditions.
+            </p>
           </div>
         </div>
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             How can one join the project?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            You can participate in the project by submitting Pull Requests on
-            GitHub, reposting, and commenting on us on social networks. We are
-            also always open to collaboration with developers, urbanists,
-            entrepreneurs, and blockchain technology enthusiasts. Write to <a
-              href="https://t.me/programyzer"
-              class="link font-bold"
-              target="_blank">rinat</a
-            > with a greeting and an announcement of the contribution you want to
-            make.
+          </div>
+          <div class="collapse-content">
+            <p>
+              You can participate in the project by submitting Pull Requests on
+              GitHub, reposting, and commenting on us on social networks. We are
+              also always open to collaboration with developers, urbanists,
+              entrepreneurs, and blockchain technology enthusiasts. Write to <a
+                href="https://t.me/programyzer"
+                class="link font-bold"
+                target="_blank">rinat</a
+              > with a greeting and an announcement of the contribution you want
+              to make.
+            </p>
           </div>
         </div>
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             What social benefits does your project provide?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            We create an environment where residents can actively participate in
-            city management, take advantage of new digital economy
-            opportunities, and live in a space free from excessive government
-            control.
+          </div>
+          <div class="collapse-content">
+            <p>
+              We create an environment where residents can actively participate
+              in city management, take advantage of new digital economy
+              opportunities, and live in a space free from excessive government
+              control.
+            </p>
           </div>
         </div>
-        <div class="faq-item">
-          <button
-            class="faq-question text-center w-full mt-2 text-lg font-semibold text-secondary"
-          >
+        <div class="collapse collapse-arrow join-item border border-primary">
+          <input type="radio" name="faq-accordion" />
+          <div class="collapse-title text-lg font-medium">
             What advantages does the project have over traditional cities?
-          </button>
-          <div
-            class="faq-answer hidden text-sm opacity-70 text-secondary text-center"
-          >
-            DoBro.City offers decentralized management, transparent city
-            processes, reduced dependence on government structures, and
-            innovative financial mechanisms for residents.
+          </div>
+          <div class="collapse-content">
+            <p>
+              DoBro.City offers decentralized management, transparent city
+              processes, reduced dependence on government structures, and
+              innovative financial mechanisms for residents.
+            </p>
           </div>
         </div>
       </div>
     </div>
-    <script>
-      document.querySelectorAll(".faq-question").forEach((button) => {
-        button.addEventListener("click", () => {
-          const answer = button.nextElementSibling
-          answer.classList.toggle("hidden")
-        })
-      })
-    </script>
   </div>
 </div>
