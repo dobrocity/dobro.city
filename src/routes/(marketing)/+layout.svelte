@@ -17,7 +17,7 @@
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
         <a href="https://t.me/dobropopupcity" class="border border-primary"
-          >🪂&nbsp;&nbsp;to Telegram</a
+          >🪂&nbsp;&nbsp;on Telegram</a
         >
       </li>
       <li class="md:mx-2"><a href="/join">Join</a></li>
@@ -79,7 +79,7 @@
         <li><a href="/search">Search</a></li>
         <li>
           <a href="https://t.me/dobropopupcity" class="border border-primary"
-            >🪂&nbsp;&nbsp;to Telegram</a
+            >🪂&nbsp;&nbsp;on Telegram</a
           >
         </li>
       </ul>

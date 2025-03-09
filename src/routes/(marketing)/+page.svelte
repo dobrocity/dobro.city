@@ -62,7 +62,7 @@
         </a>
         <a href="https://t.me/dobropopupcity">
           <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2"
-            >🪂&nbsp;&nbsp;to Telegram</button
+            >🪂&nbsp;&nbsp;on Telegram</button
           >
         </a>
       </div>
