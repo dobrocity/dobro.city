@@ -21,12 +21,12 @@
           class="border border-primary">★ us on Github</a
         >
       </li>
+      <li class="md:mx-2"><a href="/join">Join</a></li>
       <li class="md:mx-2">
         <a href="https://newsroom.dobro.city">Newsroom</a>
       </li>
       <li class="md:mx-2"><a href="https://school.dobro.city">School</a></li>
       <li class="md:mx-2"><a href="https://kids.dobro.city">For Kids</a></li>
-      <!-- <li class="md:mx-2"><a href="/account">Account</a></li> -->
       <li class="md:mx-0">
         <a href="/search" aria-label="Search">
           <svg
@@ -65,12 +65,12 @@
         tabindex="0"
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
+        <li><a href="/join">Join</a></li>
         <li class="md:mx-2">
           <a href="https://newsroom.dobro.city">Newsroom</a>
         </li>
         <li><a href="https://school.dobro.city">School</a></li>
         <li><a href="https://kids.dobro.city">For Kids</a></li>
-        <!-- <li><a href="/account">Account</a></li> -->
         <li><a href="/search">Search</a></li>
         <li>
           <a
