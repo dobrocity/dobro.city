@@ -37,15 +37,9 @@
         style="line-height: 1.2;"
       >
         The
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >open source</span
-        >, libertarian and
+        <span>open source</span>, libertarian and
         <span> blockchain-first</span>
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >Popup&nbsp;City</span
-        >
+        <span>Popup&nbsp;City</span>
       </div>
       <div class="mt-6 md:mt-10 text-sm md:text-lg">
         Built with <a
