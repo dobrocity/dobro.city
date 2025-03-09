@@ -23,10 +23,10 @@
       </li>
       <li class="md:mx-2"><a href="/join">Join</a></li>
       <li class="md:mx-2">
-        <a href="https://newsroom.dobro.city">Newsroom</a>
+        <a href="https://newsroom.dobro.city">News</a>
       </li>
       <li class="md:mx-2"><a href="https://school.dobro.city">School</a></li>
-      <li class="md:mx-2"><a href="https://kids.dobro.city">For Kids</a></li>
+      <li class="md:mx-2"><a href="https://kids.dobro.city">Kids</a></li>
       <li class="md:mx-0">
         <a href="/search" aria-label="Search">
           <svg
@@ -67,10 +67,10 @@
       >
         <li><a href="/join">Join</a></li>
         <li class="md:mx-2">
-          <a href="https://newsroom.dobro.city">Newsroom</a>
+          <a href="https://newsroom.dobro.city">News</a>
         </li>
         <li><a href="https://school.dobro.city">School</a></li>
-        <li><a href="https://kids.dobro.city">For Kids</a></li>
+        <li><a href="https://kids.dobro.city">Kids</a></li>
         <li><a href="/search">Search</a></li>
         <li>
           <a
