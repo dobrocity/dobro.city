@@ -16,14 +16,16 @@
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
-        <a
-          href="https://github.com/dobrocity/dobro.city"
-          class="border border-primary">★ us on Github</a
+        <a href="https://t.me/dobropopupcity" class="border border-primary"
+          >🪂&nbsp;&nbsp;to Telegram</a
         >
       </li>
       <li class="md:mx-2"><a href="/join">Join</a></li>
       <li class="md:mx-2">
         <a href="https://newsroom.dobro.city">News</a>
+      </li>
+      <li class="md:mx-2">
+        <a href="https://docs.dobro.city">Docs</a>
       </li>
       <li class="md:mx-2"><a href="https://school.dobro.city">School</a></li>
       <li class="md:mx-2"><a href="https://kids.dobro.city">Kids</a></li>
@@ -69,13 +71,15 @@
         <li class="md:mx-2">
           <a href="https://newsroom.dobro.city">News</a>
         </li>
+        <li class="md:mx-2">
+          <a href="https://docs.dobro.city">Docs</a>
+        </li>
         <li><a href="https://school.dobro.city">School</a></li>
         <li><a href="https://kids.dobro.city">Kids</a></li>
         <li><a href="/search">Search</a></li>
         <li>
-          <a
-            href="https://github.com/dobrocity/dobro.city"
-            class="border border-primary">★ us on Github</a
+          <a href="https://t.me/dobropopupcity" class="border border-primary"
+            >🪂&nbsp;&nbsp;to Telegram</a
           >
         </li>
       </ul>

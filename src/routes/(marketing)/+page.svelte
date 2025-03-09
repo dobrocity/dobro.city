@@ -60,45 +60,11 @@
         <a href="https://github.com/dobrocity/dobro.city">
           <button class="btn btn-primary btn-sm px-6">★ us on Github</button>
         </a>
-        <a href="https://docs.dobro.city">
+        <a href="https://t.me/dobropopupcity">
           <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2"
-            >Read the Docs</button
+            >🪂&nbsp;&nbsp;to Telegram</button
           >
         </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="min-h-[40vh]">
-  <div class="pt-10 pb-8 px-7">
-    <div class="max-w-lg mx-auto text-center">
-      <div
-        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent pb-2"
-      >
-        Roadmap
-      </div>
-    </div>
-
-    <div class="max-w-3xl mx-auto mt-12">
-      <div class="flex flex-col gap-8">
-        <div
-          class="card bg-base-100 shadow-[inset_0_2px_4px_0_rgb(0,0,0,0.25)]"
-        >
-          <div class="card-body">
-            <h2 class="card-title text-2xl">2025</h2>
-            <p class="text-lg opacity-80">Digital twin of the popup</p>
-          </div>
-        </div>
-
-        <div
-          class="card bg-base-100 shadow-[inset_0_2px_4px_0_rgb(0,0,0,0.25)]"
-        >
-          <div class="card-body">
-            <h2 class="card-title text-2xl">2026</h2>
-            <p class="text-lg opacity-80">First festival in Montenegro</p>
-          </div>
-        </div>
       </div>
     </div>
   </div>
