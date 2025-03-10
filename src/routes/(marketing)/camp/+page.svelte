@@ -13,7 +13,8 @@
       <p class="text-lg mb-6">
         Festival of autonomy and survival in <a
           href="https://maps.app.goo.gl/kqbBWRafFzCe1kdX9"
-          class="link">Montelibero&nbsp;City</a
+          class="link"
+          target="_blank">Montelibero&nbsp;City</a
         >
       </p>
       <a href="#registration-form">
@@ -35,8 +36,10 @@
         <p>
           <strong>May 2-4, 2025</strong><br />
           Montenegro, tent camp in
-          <a href="https://maps.app.goo.gl/kqbBWRafFzCe1kdX9" class="link"
-            >Montelibero&nbsp;City</a
+          <a
+            href="https://maps.app.goo.gl/kqbBWRafFzCe1kdX9"
+            class="link"
+            target="_blank">Montelibero&nbsp;City</a
           >
         </p>
       </div>
@@ -123,7 +126,8 @@
       <p>
         For pre-registration, please contact <a
           href="https://t.me/poutru"
-          class="link font-bold">@poutru</a
+          class="link font-bold"
+          target="_blank">@poutru</a
         >
       </p>
     </div>
@@ -136,7 +140,8 @@
       <p class="mb-6">
         Details and participation are discussed in the chat <a
           href="https://t.me/mtl_camp"
-          class="link font-bold">@mtl_camp</a
+          class="link font-bold"
+          target="_blank">@mtl_camp</a
         >
       </p>
     </div>
