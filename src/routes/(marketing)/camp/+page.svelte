@@ -60,6 +60,10 @@
           >
             35 EURMTL
           </a>
+          <br />
+          <a href="/pay" class="link text-sm mt-2 inline-block">
+            How to pay with Stellar →
+          </a>
         </p>
       </div>
     </div>
