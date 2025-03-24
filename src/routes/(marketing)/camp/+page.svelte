@@ -45,7 +45,22 @@
       </div>
       <div class="flex-1">
         <h3 class="font-bold text-xl">💰 Participation Fee</h3>
-        <p>Participation is paid, ticket prices will be determined later.</p>
+        <p>
+          <strong>Adults and teens (14+):</strong>
+          <a
+            href="web+stellar:pay?destination=GDGMJWWWW2XZFZZM2AWDINSME43P4JHDLK55OEHCSO6A2BAXQRMALERT&amount=70&asset_code=EURMTL&asset_issuer=GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V&memo=camp_ticket_adult&memo_type=text"
+            class="link"
+          >
+            70 EURMTL
+          </a><br />
+          <strong>Children (under 14):</strong>
+          <a
+            href="web+stellar:pay?destination=GDGMJWWWW2XZFZZM2AWDINSME43P4JHDLK55OEHCSO6A2BAXQRMALERT&amount=35&asset_code=EURMTL&asset_issuer=GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V&memo=camp_ticket_child&memo_type=text"
+            class="link"
+          >
+            35 EURMTL
+          </a>
+        </p>
       </div>
     </div>
 
