@@ -57,8 +57,8 @@
         >
       </div>
       <div class="mt-6 md:mt-2">
-        <a href="https://github.com/dobrocity/dobro.city" target="_blank">
-          <button class="btn btn-primary btn-sm px-6">★ us on Github</button>
+        <a href="/camp">
+          <button class="btn btn-primary btn-sm px-6">🏕️ on Camp</button>
         </a>
         <a href="https://t.me/dobropopupcity" target="_blank">
           <button class="btn btn-outline btn-primary btn-sm px-6 mt-3 mx-2"
