@@ -137,11 +137,18 @@
   <div id="registration-form" class="text-center mb-8">
     <h2 class="text-2xl font-bold mb-4">Pre-registration</h2>
     <div class="flex flex-col items-center mb-6">
-      <img
-        src="/images/team/valerij.png"
-        alt="Valeriy Utrosin"
-        class="rounded-full w-24 h-24 object-cover mb-3"
-      />
+      <picture>
+        <source srcset="/images/team/valerij-200.avif" type="image/avif" />
+        <source srcset="/images/team/valerij-200.webp" type="image/webp" />
+        <img
+          src="/images/team/valerij.png"
+          alt="Valeriy Utrosin"
+          class="rounded-full w-24 h-24 object-cover mb-3"
+          loading="lazy"
+          width="96"
+          height="96"
+        />
+      </picture>
       <p>
         For pre-registration, please contact <a
           href="https://t.me/poutru"
