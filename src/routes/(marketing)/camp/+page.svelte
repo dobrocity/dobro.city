@@ -138,7 +138,7 @@
     <h2 class="text-2xl font-bold mb-4">Pre-registration</h2>
     <div class="flex flex-col items-center mb-6">
       <img
-        src="/images/team/valerij.jpeg"
+        src="/images/team/valerij.png"
         alt="Valeriy Utrosin"
         class="rounded-full w-24 h-24 object-cover mb-3"
       />

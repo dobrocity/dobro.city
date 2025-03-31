@@ -86,7 +86,7 @@
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
-            src="/images/team/rinat.jpeg"
+            src="/images/team/rinat.png"
             alt="Rinat Enikeev"
             class="rounded-xl w-48 h-48 object-cover"
           />
@@ -100,7 +100,7 @@
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
-            src="/images/team/valerij.jpeg"
+            src="/images/team/valerij.png"
             alt="Valeriy Utrosin"
             class="rounded-xl w-48 h-48 object-cover"
           />
@@ -114,7 +114,7 @@
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
-            src="/images/team/aleksei.jpeg"
+            src="/images/team/aleksei.png"
             alt="Aleksei Tkachuk"
             class="rounded-xl w-48 h-48 object-cover"
           />
@@ -128,7 +128,7 @@
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
-            src="/images/team/victor.jpeg"
+            src="/images/team/victor.png"
             alt="Victor Korb"
             class="rounded-xl w-48 h-48 object-cover"
           />
@@ -142,7 +142,7 @@
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
-            src="/images/team/dmitriy.jpeg"
+            src="/images/team/dmitriy.png"
             alt="Dmitriy Sergeevich"
             class="rounded-xl w-48 h-48 object-cover"
           />
@@ -172,7 +172,7 @@
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
-            src="/images/team/mi.jpeg"
+            src="/images/team/mi.png"
             alt="Mi San"
             class="rounded-xl w-48 h-48 object-cover"
           />
@@ -186,7 +186,7 @@
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
           <img
-            src="/images/team/soz.jpeg"
+            src="/images/team/soz.png"
             alt="Soz Nov"
             class="rounded-xl w-48 h-48 object-cover"
           />
