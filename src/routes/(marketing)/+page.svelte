@@ -83,13 +83,21 @@
     <div
       class="flex flex-wrap justify-center gap-8 mt-12 max-w-[900px] mx-auto"
     >
+      <!-- Example Card: Rinat -->
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
-          <img
-            src="/images/team/rinat.png"
-            alt="Rinat Enikeev"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
+          <picture>
+            <source srcset="/images/team/rinat-200.avif" type="image/avif" />
+            <source srcset="/images/team/rinat-200.webp" type="image/webp" />
+            <img
+              src="/images/team/rinat.png"
+              alt="Rinat Enikeev"
+              class="rounded-xl w-48 h-48 object-cover"
+              loading="lazy"
+              width="192"
+              height="192"
+            />
+          </picture>
         </figure>
         <div class="card-body items-center text-center">
           <h2 class="card-title">Rinat Enikeev</h2>
@@ -97,13 +105,22 @@
         </div>
       </div>
 
+      <!-- Repeat for other team members -->
+
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
-          <img
-            src="/images/team/valerij.png"
-            alt="Valeriy Utrosin"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
+          <picture>
+            <source srcset="/images/team/valerij-200.avif" type="image/avif" />
+            <source srcset="/images/team/valerij-200.webp" type="image/webp" />
+            <img
+              src="/images/team/valerij.png"
+              alt="Valeriy Utrosin"
+              class="rounded-xl w-48 h-48 object-cover"
+              loading="lazy"
+              width="192"
+              height="192"
+            />
+          </picture>
         </figure>
         <div class="card-body items-center text-center">
           <h2 class="card-title">Valeriy Utrosin</h2>
@@ -113,11 +130,18 @@
 
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
-          <img
-            src="/images/team/aleksei.png"
-            alt="Aleksei Tkachuk"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
+          <picture>
+            <source srcset="/images/team/aleksei-200.avif" type="image/avif" />
+            <source srcset="/images/team/aleksei-200.webp" type="image/webp" />
+            <img
+              src="/images/team/aleksei.png"
+              alt="Aleksei Tkachuk"
+              class="rounded-xl w-48 h-48 object-cover"
+              loading="lazy"
+              width="192"
+              height="192"
+            />
+          </picture>
         </figure>
         <div class="card-body items-center text-center">
           <h2 class="card-title">Aleksei Tkachuk</h2>
@@ -127,11 +151,18 @@
 
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
-          <img
-            src="/images/team/victor.png"
-            alt="Victor Korb"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
+          <picture>
+            <source srcset="/images/team/victor-200.avif" type="image/avif" />
+            <source srcset="/images/team/victor-200.webp" type="image/webp" />
+            <img
+              src="/images/team/victor.png"
+              alt="Victor Korb"
+              class="rounded-xl w-48 h-48 object-cover"
+              loading="lazy"
+              width="192"
+              height="192"
+            />
+          </picture>
         </figure>
         <div class="card-body items-center text-center">
           <h2 class="card-title">Victor Korb</h2>
@@ -141,11 +172,18 @@
 
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
-          <img
-            src="/images/team/dmitriy.png"
-            alt="Dmitriy Sergeevich"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
+          <picture>
+            <source srcset="/images/team/dmitriy-200.avif" type="image/avif" />
+            <source srcset="/images/team/dmitriy-200.webp" type="image/webp" />
+            <img
+              src="/images/team/dmitriy.png"
+              alt="Dmitriy Sergeevich"
+              class="rounded-xl w-48 h-48 object-cover"
+              loading="lazy"
+              width="192"
+              height="192"
+            />
+          </picture>
         </figure>
         <div class="card-body items-center text-center">
           <h2 class="card-title">Dmitriy Sergeevich</h2>
@@ -171,11 +209,18 @@
     >
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
-          <img
-            src="/images/team/mi.png"
-            alt="Mi San"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
+          <picture>
+            <source srcset="/images/team/mi-200.avif" type="image/avif" />
+            <source srcset="/images/team/mi-200.webp" type="image/webp" />
+            <img
+              src="/images/team/mi.png"
+              alt="Mi San"
+              class="rounded-xl w-48 h-48 object-cover"
+              loading="lazy"
+              width="192"
+              height="192"
+            />
+          </picture>
         </figure>
         <div class="card-body items-center text-center">
           <h2 class="card-title">Mi San</h2>
@@ -185,11 +230,18 @@
 
       <div class="card w-64 bg-base-100 shadow-xl">
         <figure class="px-6 pt-6">
-          <img
-            src="/images/team/soz.png"
-            alt="Soz Nov"
-            class="rounded-xl w-48 h-48 object-cover"
-          />
+          <picture>
+            <source srcset="/images/team/soz-200.avif" type="image/avif" />
+            <source srcset="/images/team/soz-200.webp" type="image/webp" />
+            <img
+              src="/images/team/soz.png"
+              alt="Soz Nov"
+              class="rounded-xl w-48 h-48 object-cover"
+              loading="lazy"
+              width="192"
+              height="192"
+            />
+          </picture>
         </figure>
         <div class="card-body items-center text-center">
           <h2 class="card-title">Soz Nov</h2>
