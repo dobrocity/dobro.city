@@ -20,7 +20,6 @@
           >🪂&nbsp;&nbsp;on Telegram</a
         >
       </li>
-      <li class="md:mx-2"><a href="/camp">Camp</a></li>
       <li class="md:mx-2">
         <a href="https://newsroom.dobro.city">News</a>
       </li>
@@ -67,7 +66,6 @@
         tabindex="0"
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
-        <li><a href="/camp">Camp</a></li>
         <li class="md:mx-2">
           <a href="https://newsroom.dobro.city">News</a>
         </li>
